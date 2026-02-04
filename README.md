@@ -4,7 +4,7 @@
 
 <h3 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=25&pause=1000&color=3399FF&center=true&vCenter=true&width=500&lines=Software+Engineer;Process+Automation+Specialist;Full+Stack+Developer;Cloud+%26+DevOps+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=3399FF&center=true&vCenter=true&width=600&lines=Software+Engineer;Process+Automation+Specialist;Full+Stack+Developer;Cloud+%26+DevOps+Enthusiast" alt="Typing SVG" />
   </a>
 </h3>
 
@@ -31,12 +31,12 @@
     <tr>
       <td>
         <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Aalcantaraxxx&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" alt="Ángel's Stats" />
+          <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Aalcantaraxxx&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&cache_seconds=1800" alt="Ángel's Stats" />
         </a>
       </td>
       <td>
         <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aalcantaraxxx&layout=compact&theme=radical&hide_border=true&langs_count=6&bg_color=0d1117" alt="Top Languages" />
+          <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aalcantaraxxx&layout=compact&theme=radical&hide_border=true&langs_count=6&bg_color=0d1117&cache_seconds=1800" alt="Top Languages" />
         </a>
       </td>
     </tr>
@@ -50,7 +50,7 @@
 <div align="center">
   
   <p><b>💻 Core & Cloud Computing</b></p>
-  <img src="https://skillicons.dev/icons?i=html,css,java,js,python,react,nodejs,express,aws,gcp,mysql,docker&theme=dark" alt="Core Skills" />
+  <img src="https://skillicons.dev/icons?i=js,python,react,nodejs,express,aws,gcp,mysql,docker&theme=dark" alt="Core Skills" />
   
   <br><br>
 
@@ -99,10 +99,10 @@
     <a href="https://www.linkedin.com/in/angelalcantaraa/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-    <a href="mailto:tuemail@gmail.com">
+    <a href="mailto:angeleworking@gmail.com">
       <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
-    <a href="https://tuportafolio.com">
+    <a href="https://alcantara.is-a.dev/">
       <img src="https://img.shields.io/badge/Portfolio-Visit_Website-181717?style=for-the-badge&logo=google-chrome&logoColor=white" />
     </a>
   </p>
