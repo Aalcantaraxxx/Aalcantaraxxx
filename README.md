@@ -50,7 +50,7 @@
 <div align="center">
   
   <p><b>💻 Core & Cloud Computing</b></p>
-  <img src="https://skillicons.dev/icons?i=js,python,react,nodejs,express,aws,gcp,mysql,docker&theme=dark" alt="Core Skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,react,nodejs,express,aws,gcp,mysql,docker&theme=dark" alt="Core Skills" />
   
   <br><br>
 
